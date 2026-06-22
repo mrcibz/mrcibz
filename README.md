@@ -1,8 +1,6 @@
 ## Hi there 👋
 I'm mrcibz, a Computer Engineering student about to finish my degree.
 - 🎓 Wrapping up my Computer Engineering degree.
-- 🔭 Currently building a **subscription tracker API** with NestJS to get a solid grasp of the framework.
-- 🌱 Learning **NestJS** in depth. Next step: applying it to a larger, real-world project with microservices.
 - 👯 Open to collaborating on backend projects.
 - 📫 How to reach me: [Email](mailto:marc.fermin@outlook.es) · [LinkedIn](https://www.linkedin.com/in/marc-ferm%C3%ADn-ferrer-089633160/)
 
