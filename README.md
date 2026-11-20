@@ -1,5 +1,5 @@
-## Hi there 👋
-I'm mrcibz, a Computer Engineering student about to finish my degree.
+# Hi there 👋
+I'm Marc, a Computer Engineering student about to finish my degree.
 - 🎓 Wrapping up my Computer Engineering degree.
 - 👯 Open to collaborating on backend projects.
 - 📫 How to reach me: [Email](mailto:marc.fermin@outlook.es) · [LinkedIn](https://www.linkedin.com/in/marc-ferm%C3%ADn-ferrer-089633160/)
